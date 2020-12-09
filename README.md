@@ -4,9 +4,9 @@
 
 In this week we will introduce students to working with GeoJSON using the Leaflet library.
 
-### Homework Activities
+### Activities
 
-[Homework Instructions](../Homework-17-Mapping-Web/Instructions/README.md)
+[Instructions](../Homework-17-Mapping-Web/Instructions/README.md)
 
 ### Career Services
 
